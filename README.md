@@ -46,21 +46,21 @@ npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-n
 ## How to Run the Project
 
 1. **Navigate to the Project Directory**  
-   Open your command line interface and switch to the root folder of the application:
+     Open your command line interface and switch to the root folder of the application:
    ```bash
    cd MyDiaryApp
     ```
 2. **Install Local Dependencies**  
-    Ensure all node modules are properly synchronized:
+     Ensure all node modules are properly synchronized:
     ```Bash
     npm install
     ```
 3. **Initialize the Development Environment**  
-    Start the local Expo Metro bundler:
+     Start the local Expo Metro bundler:
     ```Bash
     npx expo start
     ```
 4. **Execute on a Target Device or Emulator**  
-   Download and open the Expo Go application on your physical iOS or Android device.  
-   Scan the terminal-rendered QR code to compile and launch the project instance.  
+ -  Download and open the Expo Go application on your physical iOS or Android device.  
+ -  Scan the terminal-rendered QR code to compile and launch the project instance.  
     
