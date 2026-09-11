@@ -49,21 +49,21 @@ npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-n
    Open your command line interface and switch to the root folder of the application:
    ```bash
    cd MyDiaryApp
-```
 
-1. Install Local Dependencies
+
+2. **Install Local Dependencies**
 
 Ensure all node modules are properly synchronized:
 
-Bash
+```Bash
 npm install
-Initialize the Development Environment
+3. **Initialize the Development Environment**
 
 Start the local Expo Metro bundler:
 
-Bash
+```Bash
 npx expo start
-Execute on a Target Device or Emulator
+4. **Execute on a Target Device or Emulator**
 
 Download and open the Expo Go application on your physical iOS or Android device.
 
