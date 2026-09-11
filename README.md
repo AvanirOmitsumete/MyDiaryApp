@@ -60,6 +60,8 @@ npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-n
     ```Bash
     npx expo start
     ```
-4. **Execute on a Target Device or Emulator**
-Download and open the Expo Go application on your physical iOS or Android device. Scan the terminal-rendered QR code to compile and launch the project instance.
+4. **Execute on a Target Device or Emulator**,
+---
+-Download and open the Expo Go application on your physical iOS or Android device. 
+-Scan the terminal-rendered QR code to compile and launch the project instance.
     
