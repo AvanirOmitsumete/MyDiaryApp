@@ -41,23 +41,27 @@ Run this single command in your terminal to install all required packages at onc
 ```bash
 npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack @expo/vector-icons react-native-maps expo-location expo-image-picker expo-linear-gradient
 
----
+## How to Run the Project
 
-How to Run the Project
-Clone or open the project folder in your terminal:
+1. **Navigate to the Project Directory**  
+   Open your command line interface and switch to the root folder of the application:
+   ```bash
+   cd MyDiaryApp
 
-Bash
-cd MyDiaryApp
-Install dependencies:
+Install Local Dependencies
+
+Ensure all node modules are properly synchronized:
 
 Bash
 npm install
-Start the Expo development server:
+Initialize the Development Environment
+
+Start the local Expo Metro bundler:
 
 Bash
 npx expo start
-Run on a device or emulator:
+Execute on a Target Device or Emulator
 
-Install the Expo Go app on your physical iOS or Android device.
+Download and open the Expo Go application on your physical iOS or Android device.
 
-Scan the generated QR code from your terminal or Metro bundler screen to launch the app.
+Scan the terminal-rendered QR code to compile and launch the project instance.
