@@ -41,16 +41,17 @@ Execute the following command in your terminal to install all required project d
 ```bash
 npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack @expo/vector-icons react-native-maps expo-location expo-image-picker expo-linear-gradient
 ```
+---
 
 ## How to Run the Project
 
-Navigate to the Project Directory
+1. **Navigate to the Project Directory**  
+   Open your command line interface and switch to the root folder of the application:
+   ```bash
+   cd MyDiaryApp
+```
 
-Open your command line interface and switch to the root folder of the application:
-
-Bash
-cd MyDiaryApp
-Install Local Dependencies
+1. Install Local Dependencies
 
 Ensure all node modules are properly synchronized:
 
