@@ -30,6 +30,7 @@ The application integrates multiple libraries for navigation, icons, maps, locat
 
 ```bash
 npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack @expo/vector-icons react-native-maps expo-location expo-image-picker expo-linear-gradient
+
 Navigation: @react-navigation/native, @react-navigation/bottom-tabs, @react-navigation/native-stack (for hybrid tab and stack navigation flows).
 
 Vector Icons: @expo/vector-icons (for cross-platform UI iconography).
