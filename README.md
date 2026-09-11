@@ -1,7 +1,7 @@
 # MyDiaryApp — Practical Examination Project
 
 **Student Name:** Kent Jay D. Otadoy  
-**Section / Course:** CS41A7 (CS Major Elective 3)  
+**Section / Course:** CS41A (CS Major Elective 3)  
 **Institution:** ACLC College of Mandaue  
 
 ---
