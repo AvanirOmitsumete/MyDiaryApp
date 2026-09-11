@@ -39,6 +39,31 @@ MyDiaryApp is a mobile journal application built with React Native and Expo. It 
 Execute the following command in your terminal to install all required project dependencies:
 
 ```bash
-npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack @expo/vector-icons react-native-maps expo-location expo-image-picker expo-linear-gradient```
+npx expo install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack @expo/vector-icons react-native-maps expo-location expo-image-picker expo-linear-gradient
+```
 
 ## How to Run the Project
+
+Navigate to the Project Directory
+
+Open your command line interface and switch to the root folder of the application:
+
+Bash
+cd MyDiaryApp
+Install Local Dependencies
+
+Ensure all node modules are properly synchronized:
+
+Bash
+npm install
+Initialize the Development Environment
+
+Start the local Expo Metro bundler:
+
+Bash
+npx expo start
+Execute on a Target Device or Emulator
+
+Download and open the Expo Go application on your physical iOS or Android device.
+
+Scan the terminal-rendered QR code to compile and launch the project instance.
